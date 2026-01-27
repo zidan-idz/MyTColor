@@ -1,0 +1,29 @@
+[build-system]
+requires = ["setuptools>=61.0", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "MyTColor"
+version = "1.0.0"
+description = "Simple, Fast, Zero-Dependency Terminal Coloring"
+readme = "README.md"
+requires-python = ">=3.6"
+license = {file = "LICENSE"}
+authors = [
+  {name = "Zidan IDz", email = "zeyshyy@gmail.com"},
+]
+keywords = ["terminal", "color", "ansi", "cli", "console", "text-formatting"]
+classifiers = [
+    "Programming Language :: Python :: 3",
+    "License :: OSI Approved :: MIT License",
+    "Operating System :: OS Independent",
+    "Topic :: Terminals",
+    "Topic :: Software Development :: Libraries :: Python Modules",
+]
+
+[project.urls]
+"Homepage" = "https://github.com/zidan-idz/MyTColor"
+"Bug Tracker" = "https://github.com/zidan-idz/MyTColor/issues"
+
+[project.scripts]
+myt = "MyTColor.__main__:main"

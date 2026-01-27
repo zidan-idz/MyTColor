@@ -1,0 +1,19 @@
+
+# Python Standard
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Distribution / Packaging
+dist/
+build/
+*.egg-info/
+
+# Virtual Environments
+venv/
+env/
+.env
+
+# Editor / IDE
+.vscode/
+.idea/
