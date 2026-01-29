@@ -2,7 +2,7 @@
 
 All notable changes to this project will be documented in this file.
 
-## [1.0.0] - 2026-01-27 "Haku"
+## [1.0.1] "Haku+"
 
 ### Added
 
