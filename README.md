@@ -76,7 +76,7 @@ Always reset at the end of your string!
 
 See full history in [CHANGELOG.md](CHANGELOG.md).
 
-**Latest: v1.0.0 "Haku"**
+**Latest: v1.0.1 "Haku+"**
 
 - Initial Release.
 - 32 Colors, Windows VT Support, Modular Architecture.
