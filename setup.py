@@ -7,7 +7,7 @@ with open('README.md', 'r', encoding='utf-8') as fh:
 
 setup(
     name='MyTColor',
-    version='1.0.0',
+    version='1.0.1',
     author='Zidan IDz',
     author_email='zeyshyy@gmail.com',
     description='Simple, Fast, Zero-Dependency Terminal Coloring',

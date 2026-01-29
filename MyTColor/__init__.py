@@ -2,7 +2,7 @@
 from .colors import *
 from .utils import enable_windows_vt
 
-__version__ = '1.0.0'
+__version__ = '1.0.1'
 
 class MyT:
     """
